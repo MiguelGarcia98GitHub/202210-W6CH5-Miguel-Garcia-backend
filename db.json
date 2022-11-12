@@ -125,5 +125,19 @@
                 "Hard Drive": "512 GB"
             }
         }
+    ],
+    "cart": [
+        {
+            "id": 20,
+            "category": "phone",
+            "offer": false,
+            "price": 600,
+            "name": "TurboPhone 1000",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/66/662565/1995-pccom-gold-intel-core-i5-12600k-16gb-1tb-ssd-rtx3060ti-comprar.jpg",
+            "details": {
+                "RAM": "20GB",
+                "Hard Drive": "500 GB"
+            }
+        }
     ]
 }
