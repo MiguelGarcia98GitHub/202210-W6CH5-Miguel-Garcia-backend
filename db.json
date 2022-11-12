@@ -1,0 +1,129 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "category": "computer",
+            "offer": true,
+            "price": 700,
+            "name": "TurboPC 500",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/82/826902/1449-pccom-bronze-amd-ryzen-7-5700g-16gb-500gb-ssd-1tb.jpg",
+            "details": {
+                "RAM": "8GB",
+                "Hard Drive": "250GB SSD",
+                "Graphic Card": "GTX 3000"
+            }
+        },
+        {
+            "id": 2,
+            "category": "computer",
+            "offer": true,
+            "price": 750,
+            "name": "TurboPC 600",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/1004/10041781/1131-pccom-silver-intel-core-i5-12400f-16gb-500gb-ssd-rtx3050-pba-comprar.jpg",
+            "details": {
+                "RAM": "12GB",
+                "Hard Drive": "500GB SSD",
+                "Graphic Card": "GTX 3100"
+            }
+        },
+        {
+            "id": 3,
+            "category": "computer",
+            "offer": false,
+            "price": 800,
+            "name": "TurboPC 700",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/82/826902/1449-pccom-bronze-amd-ryzen-7-5700g-16gb-500gb-ssd-1tb.jpg",
+            "details": {
+                "RAM": "16GB",
+                "Hard Drive": "500GB SSD",
+                "Graphic Card": "GTX 3200"
+            }
+        },
+        {
+            "id": 4,
+            "category": "computer",
+            "offer": false,
+            "price": 1200,
+            "name": "TurboPC 800",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/66/662565/1995-pccom-gold-intel-core-i5-12600k-16gb-1tb-ssd-rtx3060ti-comprar.jpg",
+            "details": {
+                "RAM": "24GB",
+                "Hard Drive": "750GB SSD",
+                "Graphic Card": "GTX 3300"
+            }
+        },
+        {
+            "id": 5,
+            "category": "computer",
+            "offer": false,
+            "price": 1500,
+            "name": "TurboPC 900",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/66/662565/1995-pccom-gold-intel-core-i5-12600k-16gb-1tb-ssd-rtx3060ti-comprar.jpg",
+            "details": {
+                "RAM": "32GB",
+                "Hard Drive": "1TB SSD",
+                "Graphic Card": "GTX 3400"
+            }
+        },
+        {
+            "id": 6,
+            "category": "phone",
+            "offer": true,
+            "price": 200,
+            "name": "TurboPhone 100",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/66/662565/1995-pccom-gold-intel-core-i5-12600k-16gb-1tb-ssd-rtx3060ti-comprar.jpg",
+            "details": {
+                "RAM": "4GB",
+                "Hard Drive": "64 GB"
+            }
+        },
+        {
+            "id": 7,
+            "category": "phone",
+            "offer": true,
+            "price": 250,
+            "name": "TurboPhone 200",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/66/662565/1995-pccom-gold-intel-core-i5-12600k-16gb-1tb-ssd-rtx3060ti-comprar.jpg",
+            "details": {
+                "RAM": "6GB",
+                "Hard Drive": "128 GB"
+            }
+        },
+        {
+            "id": 8,
+            "category": "phone",
+            "offer": false,
+            "price": 270,
+            "name": "TurboPhone 300",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/66/662565/1995-pccom-gold-intel-core-i5-12600k-16gb-1tb-ssd-rtx3060ti-comprar.jpg",
+            "details": {
+                "RAM": "8GB",
+                "Hard Drive": "128 GB"
+            }
+        },
+        {
+            "id": 9,
+            "category": "phone",
+            "offer": false,
+            "price": 350,
+            "name": "TurboPhone 400",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/66/662565/1995-pccom-gold-intel-core-i5-12600k-16gb-1tb-ssd-rtx3060ti-comprar.jpg",
+            "details": {
+                "RAM": "12GB",
+                "Hard Drive": "256 GB"
+            }
+        },
+        {
+            "id": 10,
+            "category": "phone",
+            "offer": false,
+            "price": 450,
+            "name": "TurboPhone 600",
+            "imageURL": "https://thumb.pccomponentes.com/w-530-530/articles/66/662565/1995-pccom-gold-intel-core-i5-12600k-16gb-1tb-ssd-rtx3060ti-comprar.jpg",
+            "details": {
+                "RAM": "16GB",
+                "Hard Drive": "512 GB"
+            }
+        }
+    ]
+}
